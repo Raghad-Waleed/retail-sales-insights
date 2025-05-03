@@ -18,6 +18,4 @@ The analysis is available in the [model.ipynb](https://github.com/Raghad-Waleed/
 - Google Colab
 
 
-```bash
-git init ayhaga
-```
+
